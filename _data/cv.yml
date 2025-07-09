@@ -1,0 +1,22 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nhat Anh Nghiem
+    - name: Languages
+      value: English, Vietnamese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Philosophy (Physics)
+      institution: C.N.Yang Institute for Theoretical Physics, Stony Brook University
+      year: 2021
+      description:
+        - Advised by <a href="http://insti.physics.sunysb.edu/~twei/">Prof. Tzu-Chieh Wei</a>.
+    - title: Bachelor of Science
+      institution: Stony Brook University
+      year: 2017-2021
+      description:
+        - Physics, Applied Mathematics & Statistics
+

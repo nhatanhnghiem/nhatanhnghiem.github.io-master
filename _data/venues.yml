@@ -1,0 +1,31 @@
+
+"PhysRev":
+  url: https://journals.aps.org/
+  color: "#FF5E33"
+
+"Vision":
+  color: "#009f36"
+
+"QMI":
+  url: https://link.springer.com/journal/42484  
+  color: "#FFE333"
+
+"Sci":
+  url: https://scipost.org/
+  color: "#68FF33"
+
+"Quantum":
+  url: https://quantum-journal.org/
+  color: "#334CFF"
+
+"PhysLett":
+  url: https://www.sciencedirect.com/journal/physics-letters-a
+  color: "#C133FF"
+
+"QIP":
+  url: https://link.springer.com/journal/11128
+  color: "#FF3390"
+
+"arxiv":
+  url: https://arxiv.org/
+  color: "#33FFF3"
