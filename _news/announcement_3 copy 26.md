@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work with collaborators "Quantum Algorithm for Estimating Intrinsic Geometry", has been appeared in [arxiv](https://arxiv.org/pdf/2508.06355)
+My work with collaborators Tuan K.Do, Trung V. Phan and advisor Tzu-Chieh Wei "Quantum Algorithm for Estimating Intrinsic Geometry", has been appeared in [arxiv](https://arxiv.org/pdf/2508.06355). This work marks a new progress toward quantum geometrical data analysis ! 
